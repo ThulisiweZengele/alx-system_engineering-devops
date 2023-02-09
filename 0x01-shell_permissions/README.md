@@ -9,3 +9,4 @@ Task 7: A script that adds execution permission to the owner, the group owner an
 Task 8: A script that sets the permission to the file hello for the owner to have no permission at all, the Group to have no permission at all and other users to have all permission
 Task 9: A script that sets the mode of the 'hello' file to be in the working directory and no commas are allowed to write the script
 Task 10: A script that sets the mode of the file hello the same as olleh’s mode. both files will be in the working directory
+Task 11: A a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
